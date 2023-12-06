@@ -6,19 +6,19 @@ Latar Belakang:
 Dalam era digital yang terus berkembang, WhatsApp telah menjadi salah satu platform komunikasi paling populer di seluruh dunia. Oleh karena itu, penting bagi bisnis dan organisasi untuk memiliki alat yang memungkinkan mereka memanfaatkan potensi WhatsApp sebagai kanal komunikasi yang kuat. Proyek "WhatsApp Blast Gateway" bertujuan untuk memberikan solusi yang andal dan mudah digunakan untuk kebutuhan ini.
 
 Fitur Utama:
+<b>Pengiriman Pesan Massal:</b> Mengirim pesan ke sejumlah besar kontak WhatsApp secara bersamaan. <br>
+<b>Manajemen Kontak:</b> Menyederhanakan pengelolaan daftar kontak untuk pengiriman yang lebih terarah.<br>
+<b>Template Pesan:</b> Memungkinkan pengguna membuat dan menyimpan templat pesan untuk penggunaan berulang.<br>
+<b>Analisis Kinerja:</b> Menyediakan laporan dan analisis kinerja kampanye WhatsApp.<br>
 
-<b>Pengiriman Pesan Massal:</b> Mengirim pesan ke sejumlah besar kontak WhatsApp secara bersamaan.
-<b>Manajemen Kontak:</b> Menyederhanakan pengelolaan daftar kontak untuk pengiriman yang lebih terarah.
-<b>Template Pesan:</b> Memungkinkan pengguna membuat dan menyimpan templat pesan untuk penggunaan berulang.
-<b>Analisis Kinerja:</b> Menyediakan laporan dan analisis kinerja kampanye WhatsApp.
-
+<hr>
 Manfaat:
+<b>Meningkatkan Jangkauan:</b> Menjangkau audiens lebih luas dalam waktu yang singkat. <br>
+<b>Kemudahan Penggunaan:</b> Antarmuka yang ramah pengguna untuk mempermudah pengaturan dan pengelolaan kampanye. <br>
+<b>Efisiensi Waktu:</b> Menghemat waktu dengan mengotomatiskan proses pengiriman pesan.<br>
 
-Meningkatkan Jangkauan: Menjangkau audiens lebih luas dalam waktu yang singkat.
-Kemudahan Penggunaan: Antarmuka yang ramah pengguna untuk mempermudah pengaturan dan pengelolaan kampanye.
-Efisiensi Waktu: Menghemat waktu dengan mengotomatiskan proses pengiriman pesan.
+<hr>
 Kenapa Memilih WhatsApp Blast Gateway:
-
 Andal dan Aman: Mengutamakan keamanan dan keandalan dalam setiap pengiriman pesan.
 Dukungan Pelanggan: Tim dukungan yang responsif siap membantu pengguna dalam penggunaan dan pemecahan masalah.
 Pembaruan Berkala: Menyediakan pembaruan reguler untuk meningkatkan fungsionalitas dan keamanan.
