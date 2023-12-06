@@ -7,10 +7,11 @@ Dalam era digital yang terus berkembang, WhatsApp telah menjadi salah satu platf
 
 Fitur Utama:
 
-Pengiriman Pesan Massal: Mengirim pesan ke sejumlah besar kontak WhatsApp secara bersamaan.
-Manajemen Kontak: Menyederhanakan pengelolaan daftar kontak untuk pengiriman yang lebih terarah.
-Template Pesan: Memungkinkan pengguna membuat dan menyimpan templat pesan untuk penggunaan berulang.
-Analisis Kinerja: Menyediakan laporan dan analisis kinerja kampanye WhatsApp.
+<b>Pengiriman Pesan Massal:</b> Mengirim pesan ke sejumlah besar kontak WhatsApp secara bersamaan.
+<b>Manajemen Kontak:</b> Menyederhanakan pengelolaan daftar kontak untuk pengiriman yang lebih terarah.
+<b>Template Pesan:</b> Memungkinkan pengguna membuat dan menyimpan templat pesan untuk penggunaan berulang.
+<b>Analisis Kinerja:</b> Menyediakan laporan dan analisis kinerja kampanye WhatsApp.
+
 Manfaat:
 
 Meningkatkan Jangkauan: Menjangkau audiens lebih luas dalam waktu yang singkat.
